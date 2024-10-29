@@ -1,0 +1,49 @@
+﻿@model List<StudentListViewModel>
+
+<h3>Öğrenci Ekleme Listesi </h3>
+
+<a asp-controller="Student" asp-action="StudentCreate" class="btn btn-dark fw-bold fload-center mb-4" >Yeni Öğrenci Ekle </a>
+<div>
+     <table class="table " >
+         <thead>
+             <tr>
+                 <th>
+                     Öğrenci Ad Soyad
+                 </th>
+                 <th>Öğrenci Okul No  </th>
+                 <th>Öğrenci Cinsiyet</th>
+                 <th>Öğrenci Tel No</th>
+                 <th>Güncelle/Sil</th>
+
+             </tr>
+         </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.FullName</td>
+
+                    <td>@item.SchoolNumber</td>
+                    <td>@(item.Gender ? "Erkek" :"Kadın") </td>
+                    <td>@item.PhoneNumber</td>
+                    <td>
+
+                        <a asp-controller="Student" asp-action="StudentUpdate" asp-route-id="@item.Id" class="btn btn-primary" >Güncelle</a>
+                        <a asp-controller="Student" asp-action="StudentDelete" asp-route-id="@item.Id" class="btn btn-danger" > Sil </a>
+
+                    </td>
+                    
+                        
+                </tr>
+
+            }
+
+        </tbody>
+
+
+     </table>
+
+</div>
+ 
+
+

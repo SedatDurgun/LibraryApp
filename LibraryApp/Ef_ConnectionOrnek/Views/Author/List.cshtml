@@ -1,0 +1,25 @@
+﻿<h3>Yazar lİSTELEME </h3>
+
+
+<a asp-controller="Author" asp-action="Create" class="btn btn-dark fw-bold float-center mb-2 ">Yeni Ekle</a>
+
+
+<table class="table table-dark table striped">
+    <thead>
+        <tr>
+            <th>Yazar</th>
+            <th>Aksiyonlar
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FullName</td>
+                <td>
+                    <a asp-controller="Author" asp-action="Update" asp-route-id="@item.Id" class="btn btn-primary">Güncelle</a>
+                    <a asp-controller="Author" asp-action="Delete" asp-route-id="@item.Id" class="btn  btn-danger">Sil</a>
+                </td>
+            </tr>
+
+        }

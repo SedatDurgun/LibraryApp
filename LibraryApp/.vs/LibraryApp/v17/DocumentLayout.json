@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\student\\studentupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\student\\studentupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\student\\studentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\student\\studentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\booktype\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\booktype\\updateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\booktype\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\booktype\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\booktype\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\booktype\\createform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\book\\bookupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\book\\bookupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\book\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\book\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\book\\bookcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\book\\bookcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\author\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\author\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\studentcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\studentcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\booktypeupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\booktypeupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\booktypelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\booktypelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\booktypecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\booktypecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\booklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\booklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\bookcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\bookcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\authourupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\authourupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\models\\authorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\models\\authorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\operationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\operationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\booktypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\booktypeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\librarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\librarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\booktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\booktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|c:\\users\\sedat\\onedrive\\belgeler\\libraryapp\\libraryapp\\ef_connectionornek\\migrations\\20240310085313_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78315893-64DC-4606-B655-9B215F8F7212}|Ef_ConnectionOrnek\\LibraryApp.csproj|solutionrelative:ef_connectionornek\\migrations\\20240310085313_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\List.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\BookType\\List.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\List.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\BookType\\List.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T17:13:57.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\UpdateForm.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\BookType\\UpdateForm.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\UpdateForm.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\BookType\\UpdateForm.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T10:44:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T22:49:59.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T17:45:52.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentCreate.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Student\\StudentCreate.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentCreate.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Student\\StudentCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:26:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Student\\StudentList.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentList.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Student\\StudentList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:26:32.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentUpdate.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Student\\StudentUpdate.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Student\\StudentUpdate.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Student\\StudentUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T19:28:26.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Program.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Program.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Program.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:52:33.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:04:32.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:03:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\CreateForm.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\BookType\\CreateForm.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\BookType\\CreateForm.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\BookType\\CreateForm.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T17:34:48.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookUpdate.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Book\\BookUpdate.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookUpdate.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Book\\BookUpdate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T22:01:37.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookList.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Book\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookList.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Book\\BookList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T07:26:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookCreate.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Book\\BookCreate.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Book\\BookCreate.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Book\\BookCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T07:28:43.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\Update.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Author\\Update.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\Update.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Author\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T10:45:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\List.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Author\\List.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\List.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Author\\List.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T18:08:06.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Views\\Author\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Views\\Author\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T10:03:56.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\StudentListViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\StudentListViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\StudentListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:05:53.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\StudentCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\StudentCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\StudentCreateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\StudentCreateViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:09:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookTypeUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\BookTypeUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeUpdateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\BookTypeUpdateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:10:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookTypeListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeListViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\BookTypeListViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeListViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\BookTypeListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:06:23.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookTypeCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\BookTypeCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookTypeCreateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\BookTypeCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:06:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookListViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\BookListViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookListViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\BookListViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:05:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\BookCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\BookCreateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\BookCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:37:35.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthourUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthourUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\AuthourUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthourUpdateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\AuthourUpdateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:38:13.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthorListViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\AuthorListViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthorListViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\AuthorListViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:53:08.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthorCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Models\\AuthorCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Models\\AuthorCreateViewModel.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Models\\AuthorCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:08:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\StudentEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\StudentEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:32:08.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OperationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\OperationEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\OperationEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\OperationEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\OperationEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:08:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookTypeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BookTypeEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\BookTypeEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BookTypeEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\BookTypeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T08:15:08.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:50:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:19:59.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Entities\\AuthorEntity.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Entities\\AuthorEntity.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Entities\\AuthorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:01:29.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:34:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LibrarContext.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\LibrarContext.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\LibrarContext.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\LibrarContext.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\LibrarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:10:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:50:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\BookTypeController.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\BookTypeController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\BookTypeController.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\BookTypeController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:06:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:24:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:11:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Context\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Context\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Context\\LibraryContext.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Context\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:53:03.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LibraryApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\LibraryApp.csproj",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\LibraryApp.csproj",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\LibraryApp.csproj",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\LibraryApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T08:22:08.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\appsettings.json",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\appsettings.json",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\appsettings.json",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T22:44:19.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240310085313_Library.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Migrations\\20240310085313_Library.cs",
+              "RelativeDocumentMoniker": "Ef_ConnectionOrnek\\Migrations\\20240310085313_Library.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Belgeler\\LibraryApp\\LibraryApp\\Ef_ConnectionOrnek\\Migrations\\20240310085313_Library.cs",
+              "RelativeToolTip": "Ef_ConnectionOrnek\\Migrations\\20240310085313_Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:53:13.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
